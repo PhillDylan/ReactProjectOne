@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/106843146/234429746-9f5de598-da15-44cc-92cf-bf3781c267bf.png)
+
 # GitHub Codespaces ♥️ React
 
 Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
